@@ -1,0 +1,6 @@
+{
+  "name": "betty",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
